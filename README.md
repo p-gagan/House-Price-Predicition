@@ -82,3 +82,47 @@ The goal of this project is to:
    git clone https://github.com/your-username/house-price-prediction.git
    cd house-price-prediction
 
+2. pip install -r requirements.txt
+3. Open House Prediction.ipynb in Jupyter or Google Colab.
+
+---
+
+📦 File Structure
+├── House Prediction.ipynb
+
+├── model.pkl
+
+├── requirements.txt
+
+├── README.md
+
+└── screenshots/
+    ├── training.png
+    ├── residuals.png
+    └── metrics.png
+    
+---
+
+📌 Future Improvements
+1. Explore more advanced regression models (e.g., Ridge, Lasso, RandomForest)
+2. Implement cross-validation and hyperparameter tuning
+3. Create a simple web UI using Flask or Streamlit for deployment
+
+---
+
+🙌 Acknowledgements
+Dataset from scikit-learn
+Tutorials and inspiration from the open-source ML community
+
+---
+
+📫 Contact
+Feel free to connect or reach out:
+📧 gaganpatel0205@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/p-gagan)
+
+---
+
+⭐️ If you found this project helpful, consider giving it a star!
+
+Let me know your GitHub username and I’ll personalize the links (like the repo URL and LinkedIn) for you. I can also help generate the `requirements.txt` file or set up a `screenshots/` folder if needed.
